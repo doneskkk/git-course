@@ -1,2 +1,5 @@
 passwords.txt
 src/main/logs/
+.idea/
+LeetCodeProblems.iml
+out/
